@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743242255 source:c:\users\a\desktop\asc\functii\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<ctime>
+
